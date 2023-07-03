@@ -181,7 +181,7 @@ async def advantage_spoll_choker(bot, query):
             k = (movie, files, offset, total_results)
             await auto_filter(bot, query, k)
         else:
-            k = await query.message.edit("Still no results found! Please Request To Group Admin", reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🎯 Request To Admin 🎯", url=f"https://t.me/MissGeethaBot")]]))
+            k = await query.message.edit("Still no results found! Please Request To Group Admin", reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🎯 Request To Admin 🎯", url=f"http://t.me/RKN_REQUEST_MOVIE_BOT")]]))
             await asyncio.sleep(10)
             await k.delete()
 
