@@ -6,7 +6,7 @@
   <b> 𝐑𝐊𝐍 𝐀𝐔𝐓𝐎 𝐅𝐈𝐋𝐓𝐄𝐑 𝐁𝐎𝐓 </b>
 </h1>
 
-[![Stars](https://img.shields.io/github/stars/ritesh-0/The-Snowball-BOT?style=flat-square&color=yellow)](https://github.com/ritesh-0/The-Snowball-BOT/stargazers)
+[![Stars](https://img.shields.io/github/stars/RknDeveloper/Rkn-Auto-Filter-Bot?style=flat-square&color=yellow)](https://github.com/RknDeveloper/Rkn-Auto-Filter-Bot/stargazers)
 [![Forks](https://img.shields.io/github/forks/ritesh-0/The-Snowball-BOT?style=flat-square&color=orange)](https://github.com/ritesh-0/The-Snowball-BOT/fork)
 [![Size](https://img.shields.io/github/repo-size/ritesh-0/The-Snowball-BOT?style=flat-square&color=green)](https://github.com/ritesh-0/The-Snowball-BOT)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ritesh-0/The-Snowball-BOT)   
