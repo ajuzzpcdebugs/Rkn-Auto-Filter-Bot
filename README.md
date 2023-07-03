@@ -122,7 +122,7 @@ clear_junk_group - clear add removed group or deactivated groups on db
 
 ## TELAGRAM SUPPORT 
 
-* [![ʀᴋɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://img.shields.io/static/v1?label=SNOWBALL&message=BOT&color=critical)](https://t.me/RknDeveloper)
+* [![ʀᴋɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ](https://img.shields.io/static/v1?label=ʀᴋɴ&message=ᴅᴇᴠᴇʟᴏᴘᴇʀ&color=critical)](https://t.me/RknDeveloper)
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
