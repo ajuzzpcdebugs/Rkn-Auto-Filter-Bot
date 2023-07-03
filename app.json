@@ -1,10 +1,10 @@
 {
-    "name": "SNOWBALL-BOT",
+    "name": "Rkn-Auto-Filter-Bot",
     "description": "the telegram Autofilter bot",
-    "logo": "./Logo/Snowball.jpg",
+    "logo": "./Logo/RknDeveloper.jpg",
     "keywords": ["telegram", "auto-filter"],
     "stack": "container",
-    "website": "https://t.me/Kdramaland_Official",
+    "website": "https://t.me/RknDeveloper",
     "repository": "NONE",
     "env": {
         "WEBHOOK": {
