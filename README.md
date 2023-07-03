@@ -6,7 +6,13 @@
   <b> 𝐑𝐊𝐍 𝐀𝐔𝐓𝐎 𝐅𝐈𝐋𝐓𝐄𝐑 𝐁𝐎𝐓 </b>
 </h1>
 
-
+[![Stars](https://img.shields.io/github/stars/RknDeveloper/Rkn-Auto-Filter-Bot?style=flat-square&color=yellow)](https://github.com/RknDeveloper/Rkn-Auto-Filter-Bot/stargazers)
+[![Forks](https://img.shields.io/github/forks/RknDeveloper/Rkn-Auto-Filter-Bot?style=flat-square&color=orange)](https://github.com/RknDeveloper/Rkn-Auto-Filter-Bot/fork)
+[![Size](https://img.shields.io/github/repo-size/RknDeveloper/Rkn-Auto-Filter-Bot?style=flat-square&color=green)](https://github.com/RknDeveloper/Rkn-Auto-Filter-Bot)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/RknDeveloper/Rkn-Auto-Filter-Bot)   
+[![Contributors](https://img.shields.io/github/contributors/RknDeveloper/Rkn-Auto-Filter-Bot?style=flat-square&color=green)](https://github.com/RknDeveloper/Rkn-Auto-Filter-Bot/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/RknDeveloper/Rkn-Auto-Filter-Bot/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/RknDeveloper/Rkn-Auto-Filter-Bot.svg)](https://stars.medv.io/RknDeveloper/Rkn-Auto-Filter-Bot)
 
 
 
