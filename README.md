@@ -7,12 +7,12 @@
 </h1>
 
 [![Stars](https://img.shields.io/github/stars/RknDeveloper/Rkn-Auto-Filter-Bot?style=flat-square&color=yellow)](https://github.com/RknDeveloper/Rkn-Auto-Filter-Bot/stargazers)
-[![Forks](https://img.shields.io/github/forks/ritesh-0/The-Snowball-BOT?style=flat-square&color=orange)](https://github.com/ritesh-0/The-Snowball-BOT/fork)
-[![Size](https://img.shields.io/github/repo-size/ritesh-0/The-Snowball-BOT?style=flat-square&color=green)](https://github.com/ritesh-0/The-Snowball-BOT)   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ritesh-0/The-Snowball-BOT)   
-[![Contributors](https://img.shields.io/github/contributors/ritesh-0/The-Snowball-BOT?style=flat-square&color=green)](https://github.com/ritesh-0/The-Snowball-BOT/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/ritesh-0/The-Snowball-BOT/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/ritesh-0/The-Snowball-BOT.svg)](https://stars.medv.io/ritesh-0/The-Snowball-BOT)
+[![Forks](https://img.shields.io/github/forks/RknDeveloper/Rkn-Auto-Filter-Bot?style=flat-square&color=orange)](https://github.com/RknDeveloper/Rkn-Auto-Filter-Bot/fork)
+[![Size](https://img.shields.io/github/repo-size/RknDeveloper/Rkn-Auto-Filter-Bot?style=flat-square&color=green)](https://github.com/RknDeveloper/Rkn-Auto-Filter-Bot)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/RknDeveloper/Rkn-Auto-Filter-Bot)   
+[![Contributors](https://img.shields.io/github/contributors/RknDeveloper/Rkn-Auto-Filter-Bot?style=flat-square&color=green)](https://github.com/RknDeveloper/Rkn-Auto-Filter-Bot/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/RknDeveloper/Rkn-Auto-Filter-Bot/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/RknDeveloper/Rkn-Auto-Filter-Bot.svg)](https://stars.medv.io/RknDeveloper/Rkn-Auto-Filter-Bot)
 
 
 
