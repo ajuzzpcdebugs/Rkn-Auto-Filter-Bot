@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝐓𝐇𝐄+𝐒𝐍𝐎𝐖𝐁𝐀𝐋𝐋+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝚂𝙽𝙾𝚆𝙱𝙰𝙻𝙻!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
-  <img src="https://graph.org/file/81ba36faffdef5c2a9c77.jpg" alt="The Snowball Bot">
+  <img src="https://telegra.ph/file/0766f02af89d3a0cea466.jpg" alt="The Snowball Bot">
 </p>
 <h1 align="center">
   <b> 𝐓𝐇𝐄 𝐒𝐍𝐎𝐖𝐁𝐀𝐋𝐋 𝐁𝐎𝐓 </b>
