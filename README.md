@@ -1,9 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝐑𝐊𝐍+𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝚁𝙺𝙽+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝐑𝐊𝐍+𝐀𝐔𝐓𝐎+𝐅𝐈𝐋𝐓𝐄𝐑+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝚁𝙺𝙽+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
-  <img src="https://telegra.ph/file/0766f02af89d3a0cea466.jpg" alt="The Snowball Bot">
+  <img src="https://telegra.ph/file/0766f02af89d3a0cea466.jpg" alt="RKN AUTO FILTER BOT">
 </p>
 <h1 align="center">
-  <b> 𝐑𝐊𝐍 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐁𝐎𝐓 </b>
+  <b> 𝐑𝐊𝐍 𝐀𝐔𝐓𝐎 𝐅𝐈𝐋𝐓𝐄𝐑 𝐁𝐎𝐓 </b>
 </h1>
 
 [![Stars](https://img.shields.io/github/stars/ritesh-0/The-Snowball-BOT?style=flat-square&color=yellow)](https://github.com/ritesh-0/The-Snowball-BOT/stargazers)
