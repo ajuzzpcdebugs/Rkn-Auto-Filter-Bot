@@ -14,6 +14,7 @@ from plugins.group_filter import global_filters
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.ERROR)
 
+req_channel = REQ_CHANNEL
 PM_BUTTONS = {}
 PM_SPELL_CHECK = {}
 
