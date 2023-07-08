@@ -14,7 +14,7 @@ from plugins.group_filter import global_filters
 import os
 req_channel = int(os.environ.get('REQ_CHANNEL','-1001821315484'))
 
-import logging
+
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.ERROR)
 
