@@ -11,11 +11,13 @@ from database.users_chats_db import db
 from database.ia_filterdb import Media, get_file_details, get_search_results
 from plugins.group_filter import global_filters
 
+import os
+req_channel = int(os.environ.get('REQ_CHANNEL','-1001821315484'))
+
 import logging
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.ERROR)
 
-req_channel = REQ_CHANNEL
 PM_BUTTONS = {}
 PM_SPELL_CHECK = {}
 
