@@ -11,6 +11,7 @@ from database.users_chats_db import db
 from database.ia_filterdb import Media, get_file_details, get_search_results
 from plugins.group_filter import global_filters
 
+import logging
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.ERROR)
 
