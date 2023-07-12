@@ -45,7 +45,9 @@ async def start(client, message):
             ],[      
             InlineKeyboardButton("♻️ 𝙷𝙴𝙻𝙿 ♻️", callback_data="help"),
             InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
-        ]]
+            ],[
+            InlineKeyboardButton("🎬 𝙼𝙾𝚅𝙸𝙴 𝙶𝚁𝙾𝚄𝙿 🎬", url=f"https://t.me/CG_OF_MOVIE_GROUP")
+         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
         m=await message.reply_sticker("CAACAgUAAxkBAAIFNGJSlfOErbkSeLt9SnOniU-58UUBAAKaAAPIlGQULGXh4VzvJWoeBA")
@@ -95,7 +97,9 @@ async def start(client, message):
             ],[      
             InlineKeyboardButton("♻️ 𝙷𝙴𝙻𝙿 ♻️", callback_data="help"),
             InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
-        ]]
+            ],[
+            InlineKeyboardButton("🎬 𝙼𝙾𝚅𝙸𝙴 𝙶𝚁𝙾𝚄𝙿 🎬", url=f"https://t.me/CG_OF_MOVIE_GROUP")
+         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
         m=await message.reply_sticker("CAACAgUAAxkBAAIFNGJSlfOErbkSeLt9SnOniU-58UUBAAKaAAPIlGQULGXh4VzvJWoeBA")
