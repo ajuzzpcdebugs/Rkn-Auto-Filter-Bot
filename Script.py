@@ -2,7 +2,7 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
 
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ 𝙰𝙳𝙼𝙸𝙽 : <a href=https://t.me/RknDeveloperr>ʀᴋɴ ᴅᴇᴠᴇʟᴏᴘᴇʀ</a>
+✯ 𝙰𝙳𝙼𝙸𝙽 : <a href=https://t.me/ajuzz_pc_1>AJUZZ PC</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : 𝙼𝙾𝙽𝙶𝙾-𝙳𝙱
@@ -21,7 +21,7 @@ class script(object):
 
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 
-<code>/batch https://t.me/TeamEvamaria/10 https://t.me/TeamEvamaria/20</code></a>"""
+<code>/batch https://t.me/ajuzz_pc_1 https://t.me/ajuzz_pc_1/20</code></a>"""
     
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
