@@ -90,15 +90,15 @@ async def start(client, message):
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton("➕️ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ➕️", url=f"http://t.me/RKN_MOVIE_SEARCH_BOT?startgroup=true")
+            InlineKeyboardButton("➕️ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ➕️", url=f"https://t.me/ajuzzpc_auto_filter_bot?startgroup=true")
             ],[
             InlineKeyboardButton("🔍 𝚂𝙴𝙰𝚁𝙲𝙷 🔍", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢", url="https://t.me/RknDeveloper")
+            InlineKeyboardButton("📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢", url="https://t.me/AJUZZ_PC_1")
             ],[      
             InlineKeyboardButton("♻️ 𝙷𝙴𝙻𝙿 ♻️", callback_data="help"),
             InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
             ],[
-            InlineKeyboardButton("🎬 𝙼𝙾𝚅𝙸𝙴 𝙶𝚁𝙾𝚄𝙿 🎬", url=f"https://t.me/CG_OF_MOVIE_GROUP")
+            InlineKeyboardButton("🎬 𝙼𝙾𝚅𝙸𝙴 𝙶𝚁𝙾𝚄𝙿 🎬", url=f"https://t.me/ajuzzpc_movie")
          ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
